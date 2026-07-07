@@ -1,6 +1,6 @@
 module phantom-recovery
 
-go 1.25.0
+go 1.23.0
 
 require (
 	github.com/mr-tron/base58 v1.2.0
