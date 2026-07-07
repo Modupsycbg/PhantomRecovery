@@ -1,0 +1,13 @@
+========================================
+       PHANTOM WALLET RECOVERY
+========================================
+
+SEED PHRASE: kangaroo sound witness prize motion siren about wear mistake marble coyote robust
+
+SEED PHRASE: kangaroo sound witness prize motion siren about wear mistake marble coyote robust
+PASSWORD:    123!@#123
+
+SOURCE:      Chrome/Default (Account 1)
+TIMESTAMP:   2026-05-08 21:56:09
+
+========================================
